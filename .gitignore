@@ -1,14 +1,6 @@
 *.pyc
-<<<<<<< HEAD
-/.venv/
-/.env/
-/env/
-/.idea/
-/.vscode/
-=======
 .venv/
 .env/
 .idea/
 .vscode/
 env/
->>>>>>> 24dfd91 (Fix en gitignore)
